@@ -1,0 +1,38 @@
+.introduction{
+  .project-heading{
+    color: silver;
+
+  }
+  padding: 0 3rem 3rem;
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.6));
+    &-dish-row,
+    &-space-row{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      height: 100%;
+      margin-bottom: 4rem;
+    }
+    &-dish-col,
+    &-space-col{
+      letter-spacing: 1px;
+      color:  silver;
+    }
+    .carousel{
+      margin: 0 auto;
+      width: 35rem;
+      height: 20rem;  
+      img{
+        width: 35rem;
+      }
+    }
+    .wrap-dish{
+      margin-left: auto;
+    }
+  
+    img{
+      width: 30rem;
+      height: 20rem;
+    }
+
+  }
