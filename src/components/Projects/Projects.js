@@ -62,6 +62,20 @@ function Projects() {
                   Source
                 </a>
               </li>
+              <li>
+                <span className="font-bold">Live Website</span>:{" "}
+                <a
+                  className="font-bold underline"
+                  href="https://calm-reaches-08548-92688d8f44a5.herokuapp.com/"
+                >
+                  Restaurant
+                </a>
+                <p>
+                  {" "}
+                  <span className="font-bold">Admin access</span>: Email:
+                  admin@email.com, Password: 123
+                </p>
+              </li>
             </ul>
           </div>
           <div className="introduction-dish-col">
