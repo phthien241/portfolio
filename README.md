@@ -11,7 +11,5 @@ Hello and welcome to my Portfolio Website's repository! This site is all about s
 - Framework: ReactJS - for building user interfaces in a modular and scalable way.
 - Styling: Tailwind CSS - a CSS framework for rapid UI development.
 
-# Demo
-![](images/screenshot1.png)
-![](images/screenshot2.png)
-![](images/screenshot3.png)
+# Live Website
+- [Link](https://tranquil-gorge-78604-c5e042b8eb37.herokuapp.com/)
